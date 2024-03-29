@@ -1,8 +1,8 @@
-# ML-based-Lightpath-QoT-Estimation-via-SHAP-Assisted-Feature-Selection
-
-## Reducing Complexity and Enhancing Predictive Power of ML-based Lightpath QoT Estimation via SHAP-Assisted Feature Selection
+# Reducing Complexity and Enhancing Predictive Power of ML-based Lightpath QoT Estimation via SHAP-Assisted Feature Selection
 
 ### Hussein Fawaz, Farhad Arpanaei, Davide Andreoletti, Ihab Sbeity, Jose Alberto Hernandez,David Larrabeiti, and Omran Ayoub
+
+This paper has been accepted at the ONDM Conference 2024.
 
 Lebanese University, Beirut, Lebanon, email: hussein.fawaz.5@st.ul.edu.lb, ihab.sbeity@ul.edu.lb,
 
